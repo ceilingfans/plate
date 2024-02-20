@@ -1,6 +1,5 @@
-workspace = { members = ["platec_lexer"] }
 [package]
-name = "plate"
+name = "platec_lexer"
 version = "0.1.0"
 edition = "2021"
 

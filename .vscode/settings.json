@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./platec_lexer/Cargo.toml"
+    ]
+}
